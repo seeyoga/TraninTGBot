@@ -1,0 +1,3 @@
+server.port=8084
+bot.name=bot_name
+bot.token=bot_token
