@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>dispather</module>
+        <module>common-rabbirmq</module>
     </modules>
 
     <properties>
